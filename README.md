@@ -5,7 +5,10 @@
 
 1. Install
 ```sh
-yarn add @santospatrick/eslint-config-react @santospatrick/prettier-config --dev
+yarn add eslint-config-prettier \
+  eslint-plugin-prettier \
+  @santospatrick/eslint-config-react \
+  @santospatrick/prettier-config --dev
 ```
 
 2. Create a file `.eslintrc` and add this:
