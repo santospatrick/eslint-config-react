@@ -1,2 +1,2 @@
 # eslint-config-react
-:style: Simple eslint config for React.js
+:barber: Simple eslint config for React.js

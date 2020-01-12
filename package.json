@@ -1,0 +1,11 @@
+{
+    "name": "@santospatrick/eslint-config-react",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "devDependencies": {
+        "babel-eslint": "^10.0.3",
+        "eslint": "^6.8.0",
+        "eslint-plugin-react": "^7.17.0"
+    }
+}
