@@ -28,7 +28,6 @@ yarn add eslint-config-prettier \
 4. (Optional) Add script for linting
 ```json
 "scripts": {
-    ...
     "lint": "eslint --fix src --ext .js"
 },
 ```
