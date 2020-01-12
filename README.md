@@ -5,7 +5,7 @@
 
 1. Install
 ```sh
-yarn add @santospatrick/eslint-config-react
+yarn add @santospatrick/eslint-config-react --dev
 ```
 
 2. Create a file `.eslintrc` and add this:
