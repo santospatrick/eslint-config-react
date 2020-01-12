@@ -25,6 +25,15 @@ yarn add eslint-config-prettier \
 ...
 ```
 
+4. (Optional) Add script for linting
+```json
+"scripts": {
+    ...
+    "lint": "eslint --fix src --ext .js"
+},
+```
+
+
 ## Create React App
 If you are using [create-react-app](https://create-react-app.dev/), remove the following lines at `package.json`:
 
