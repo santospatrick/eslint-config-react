@@ -8,7 +8,8 @@ module.exports = {
         browser: true,
         es6: true,
         node: true,
-        jest: true
+        jest: true,
+        node: true
     },
     parser: 'babel-eslint',
     plugins: ['react'],
