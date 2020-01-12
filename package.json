@@ -1,6 +1,6 @@
 {
     "name": "@santospatrick/eslint-config-react",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "main": "index.js",
     "license": "MIT",
     "devDependencies": {
@@ -8,11 +8,13 @@
         "eslint": "^6.8.0",
         "eslint-config-prettier": "^6.9.0",
         "eslint-plugin-prettier": "^3.1.2",
-        "eslint-plugin-react": "^7.17.0"
+        "eslint-plugin-react": "^7.17.0",
+        "prettier": "^1.19.1"
     },
     "peerDependencies": {
         "babel-eslint": "^10.0.3",
         "eslint": "^6.8.0",
-        "prettier": "^1.19.1"
+        "prettier": "^1.19.1",
+        "eslint-plugin-prettier": "^3.1.2"
     }
 }
