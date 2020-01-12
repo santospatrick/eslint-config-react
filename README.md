@@ -1,4 +1,4 @@
-# eslint-config-react
+# `@santospatrick/eslint-config-react`
 :barber: Simple eslint config for React.js
 
 ## Usage
