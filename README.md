@@ -5,8 +5,9 @@
 
 1. Install
 ```sh
-yarn add eslint-config-prettier \
+yarn add eslint prettier eslint-config-prettier \
   eslint-plugin-prettier \
+  eslint-plugin-react \
   @santospatrick/eslint-config-react \
   @santospatrick/prettier-config --dev
 ```
